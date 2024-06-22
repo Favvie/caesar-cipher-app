@@ -1,0 +1,15 @@
+/* src/styles/CipherApp.css */
+.cipher-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.cipher-app div {
+  margin: 10px 0;
+}
+
+.cipher-app input {
+  margin-left: 10px;
+}
