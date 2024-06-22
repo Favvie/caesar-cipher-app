@@ -14,7 +14,7 @@ The Caesar Cipher Text Encryption/Decryption application allows users to encrypt
 1. Clone the repository:
 
 ```bash
-git clone <input-url-here>
+git clone 'https://github.com/Favvie/caesar-cipher-app.git'
 ```
 
 2. Navigate to the project directory:
