@@ -16,7 +16,7 @@
 
 
 .buttonContainer button {
-  background-color: #007bff; /* Primary blue color */
+  background-color: #007bff; 
   border: none;
   color: white;
   padding: 10px 20px;
@@ -31,17 +31,17 @@
 }
 
 .button:hover {
-  background-color: #0056b3; /* Darker blue on hover */
+  background-color: #0056b3;
 }
 
 .button:active {
-  background-color: #004494; /* Even darker blue on click */
-  transform: scale(0.98); /* Slightly reduce size on click */
+  background-color: #004494;
+  transform: scale(0.98); 
 }
 
-/* styles.css */
 
-/* Container styling */
+
+
 .container {
   max-width: 400px;
   margin: 0 auto;
@@ -51,13 +51,13 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Heading styling */
+
 h1 {
   text-align: center;
   color: #333;
 }
 
-/* Label and input styling */
+
 label {
   display: block;
   margin-bottom: 10px;
@@ -73,7 +73,7 @@ input {
   margin-top: 4px;
 }
 
-/* Button styling */
+
 .buttonContainer {
   display: flex;
 }
