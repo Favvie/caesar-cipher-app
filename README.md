@@ -37,6 +37,14 @@ npm install
 npm run dev
 ```
 
+## Testing
+
+1. Run the test suites using:
+
+```bash
+npm run test
+```
+
 2. Open your browser and go to `http://localhost:3000`.
 
 3. **Encrypting Plaintext**:
